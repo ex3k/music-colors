@@ -50,7 +50,7 @@ Saturation < 7: 0
 
 Grey (saturation ≤ 5)
 Max Lightness: 65
-Min Lightness: 100
+Min Lightness: 10
 
 Max Saturation: 5
 Min Saturation: 0
