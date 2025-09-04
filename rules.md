@@ -1,4 +1,4 @@
-**Palette: Basic**
+Palette: Basic
 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
@@ -63,7 +63,7 @@ Saturation < 7: 0
 
 
 
-**Palette: Test**
+Palette: Test
 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
