@@ -1,4 +1,4 @@
-Palette: Basic
+Palette: Big player
 Красный 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
@@ -66,7 +66,7 @@ Saturation < 7: 0
 
 
 
-Palette: Test
+Palette: Essence
 Красный 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
@@ -132,3 +132,69 @@ Lightness < 25: 0
 Saturation ≥ 7: 0
 Saturation < 7: 0
 
+
+Palette: Agent
+Красный 1-30 / 300-360
+Max Lightness: 70
+Min Lightness: 10
+
+Max Saturation: 70
+Min Saturation: 10
+
+Lightness ≥ 25: +15
+Lightness < 25: +15
+
+Saturation ≥ 10: +40
+Saturation < 10: +30
+
+Оранжевый 30-80
+Max Lightness: 65
+Min Lightness: 10
+
+Max Saturation: 70
+Min Saturation: 10
+
+Lightness ≥ 25: +15
+Lightness < 25: +15
+
+Saturation ≥ 10: +40
+Saturation < 10: +30
+
+Зелёный/Синий 80-200
+Max Lightness: 60
+Min Lightness: 10
+
+Max Saturation: 80
+Min Saturation: 10
+
+Lightness ≥ 15: +15
+Lightness < 15: +15
+
+Saturation ≥ 7: +40
+Saturation < 7: +30
+
+Синий/Фиолетовый 200-300
+Max Lightness: 70
+Min Lightness: 10
+
+Max Saturation: 60
+Min Saturation: 10
+
+Lightness ≥ 25: +10
+Lightness < 25: +10
+
+Saturation ≥ 7: +40
+Saturation < 7: +20
+
+Серый 5≤ насыщ.
+Max Lightness: 60
+Min Lightness: 10
+
+Max Saturation: 80
+Min Saturation: 10
+
+Lightness ≥ 25: +15
+Lightness < 25: +15
+
+Saturation ≥ 7: +20
+Saturation < 7: +10
