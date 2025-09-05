@@ -71,14 +71,14 @@ Palette: Essence
 Max Lightness: 70
 Min Lightness: 4
 
-Max Saturation: 70
+Max Saturation: 100
 Min Saturation: 10
 
-Lightness ≥ 25: 0
-Lightness < 25: 0
+Lightness ≥ 25: +5
+Lightness < 25: -5
 
-Saturation ≥ 10: 0
-Saturation < 10: 0
+Saturation ≥ 10: +25
+Saturation < 10: -5
 
 Оранжевый 30-80
 Max Lightness: 65
