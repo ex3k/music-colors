@@ -1,5 +1,5 @@
 Palette: Basic
-1-30 / 300-360
+Красный 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
 
@@ -12,7 +12,7 @@ Lightness < 25: -15
 Saturation ≥ 10: +25
 Saturation < 10: -5
 
-30-80
+Оранжевый 30-80
 Max Lightness: 65
 Min Lightness: 5
 
@@ -25,7 +25,7 @@ Lightness < 25: -15
 Saturation ≥ 10: +15
 Saturation < 10: -5
 
-80-200
+Зелёный/Синий 80-200
 Max Lightness: 60
 Min Lightness: 5
 
@@ -38,7 +38,7 @@ Lightness < 15: -10
 Saturation ≥ 7: +15
 Saturation < 7: -5
 
-200-300
+Синий/Фиолетовый 200-300
 Max Lightness: 70
 Min Lightness: 10
 
@@ -51,7 +51,7 @@ Lightness < 25: -10
 Saturation ≥ 7: +10
 Saturation < 7: 0
 
-Grey (saturation ≤ 5)
+Серый 5≤ насыщ.
 Max Lightness: 65
 Min Lightness: 10
 
@@ -67,7 +67,7 @@ Saturation < 7: 0
 
 
 Palette: Test
-1-30 / 300-360
+Красный 1-30 / 300-360
 Max Lightness: 70
 Min Lightness: 4
 
@@ -80,7 +80,7 @@ Lightness < 25: 0
 Saturation ≥ 10: 0
 Saturation < 10: 0
 
-30-80
+Оранжевый 30-80
 Max Lightness: 65
 Min Lightness: 5
 
@@ -93,7 +93,7 @@ Lightness < 25: 0
 Saturation ≥ 10: 0
 Saturation < 10: 0
 
-80-200
+Зелёный/Синий 80-200
 Max Lightness: 60
 Min Lightness: 5
 
@@ -106,7 +106,7 @@ Lightness < 15: 0
 Saturation ≥ 7: 0
 Saturation < 7: 0
 
-200-300
+Синий/Фиолетовый 200-300
 Max Lightness: 70
 Min Lightness: 10
 
@@ -119,7 +119,7 @@ Lightness < 25: 0
 Saturation ≥ 7: 0
 Saturation < 7: 0
 
-Grey (saturation ≤ 5)
+Серый 5≤ насыщ.
 Max Lightness: 65
 Min Lightness: 100
 
