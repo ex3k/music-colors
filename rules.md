@@ -255,13 +255,13 @@ Saturation < 5: -10
 
 Серый 5≤ насыщ.
 Max Lightness: 60
-Min Lightness: 10
+Min Lightness: 5
 
 Max Saturation: 80
-Min Saturation: 10
+Min Saturation: 5
 
-Lightness ≥ 25: +15
-Lightness < 25: +15
+Lightness ≥ 25: +5
+Lightness < 25: 0
 
-Saturation ≥ 7: +20
-Saturation < 7: +10
+Saturation ≥ 7: +5
+Saturation < 7: 0
